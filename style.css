@@ -1,0 +1,34 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #F9EDCC;
+  }
+  #inicio{
+    margin-top: 5px;
+    padding: 5px;
+  }
+
+  #nav li {
+      display: inline;
+      list-style-type: none;
+      padding-right: 20px;
+      float: left;
+  }
+
+  .rounded-photo{
+    border-radius: 50%;
+    width: 15%;
+    margin-top: 1%;
+  }
+
+  #artigo {
+    font-size: 15px;
+    font-style: italic;
+    display: inline-block;
+    height: 15px;
+
+  }
+  
+  #secao{
+    display: inline-block;
+    left: 15%;
+  }
